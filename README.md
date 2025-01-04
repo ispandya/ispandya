@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Ishita Pandya</h1>
 <h3 align="center">A Passionate Fullstack Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ispandya" alt="ispandya" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ishitapandya12" target="blank"><img src="https://img.shields.io/twitter/follow/ishitapandya12?logo=twitter&style=for-the-badge" alt="ishitapandya12" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
