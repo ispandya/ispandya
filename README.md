@@ -1,5 +1,5 @@
 <h1 >Hi, I'm Ishita </h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<h3 >Welcome to my Profile!</h3>
 
 <p align="left"> <a href="https://twitter.com/ishitapandya12" target="blank"><img src="https://img.shields.io/twitter/follow/ishitapandya12?logo=twitter&style=for-the-badge" alt="ishitapandya12" /></a> </p>
 
